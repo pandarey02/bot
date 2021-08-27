@@ -1,0 +1,32 @@
+{
+  "name": "bgbot",
+  "version": "1.0.0",
+  "description": "Bot for BigGames.pl",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandarey02/bot.git"
+  },
+  "keywords": [
+    "Bot",
+    "BigGames.pl",
+    "NodeJS",
+    "DiscordJS"
+  ],
+  "author": "pandarey,marcel",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/pandarey02/bot/issues"
+  },
+  "homepage": "https://github.com/pandarey02/bot#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "discord.js": "^12.5.3",
+    "loader.js": "^4.7.0",
+    "main.js": "^0.0.1",
+    "utf-8-validate": "^5.0.5"
+  }
+}
